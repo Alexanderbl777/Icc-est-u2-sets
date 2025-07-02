@@ -2,10 +2,17 @@
 
 import java.util.Set;
 
+import controllers.ContactoControler;
 import controllers.Sets;
 
 public class App {
     public static void main(String[] args) throws Exception {
+
+        
+        ContactoControler contact = new ContactoControler();
+        
+
+        /** 
        System.out.println("Alexander Beltran");
         Sets sets = new Sets();
         System.out.println("-> HashSet");
@@ -21,7 +28,7 @@ public class App {
         runTreeSetCom(sets);
         System.out.println("-------------------------");
         System.out.println("-> TreeSetComparador");
-        runTreeSetComR(sets);
+        runTreeSetComR(sets);*/
     }
 
     public static void runHashSet(Sets sets){
