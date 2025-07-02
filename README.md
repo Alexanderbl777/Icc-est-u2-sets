@@ -1,7 +1,8 @@
 ## Sets
 Autor: Alexander Beltran
 
-![  Ejecucion Sets](img/Sets.png)
+![Ejecución Sets](./Imagen/Sets.png)
+
 
 ## Dependency Management
 
