@@ -3,13 +3,15 @@
 import java.util.Set;
 
 import controllers.ContactoControler;
+import controllers.Ejercicio;
 import controllers.Sets;
 
 public class App {
     public static void main(String[] args) throws Exception {
 
-        
-        ContactoControler contact = new ContactoControler();
+        Ejercicio ej = new Ejercicio();
+
+        //ContactoControler contact = new ContactoControler();
         
 
         /** 
